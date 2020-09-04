@@ -1,0 +1,3 @@
+include ':AnimatedProgressDialog'
+include ':app'
+rootProject.name = "AnimatedProgessDialog"
